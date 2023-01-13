@@ -1,4 +1,4 @@
-package com.pastcampus.javaoop.logic;
+package com.oop.practice.logic;
 
 import java.util.ArrayList;
 import java.util.List;

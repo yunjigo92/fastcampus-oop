@@ -1,8 +1,6 @@
-package com.pastcampus.javaoop;
+package com.oop.practice;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * description
