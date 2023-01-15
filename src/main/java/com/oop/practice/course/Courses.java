@@ -1,4 +1,4 @@
-package org.example;
+package com.oop.practice.course;
 
 import java.util.List;
 

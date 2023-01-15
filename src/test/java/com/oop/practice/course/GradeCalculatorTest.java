@@ -1,4 +1,4 @@
-package org.example;
+package com.oop.practice.course;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
